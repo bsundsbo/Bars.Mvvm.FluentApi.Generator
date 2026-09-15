@@ -17,6 +17,9 @@ new BarToggleButtonViewModel(key)
 ```
 Release Notes:
 
+* 0.3.3
+  * Added nullability annotation support as of Actipro 26.1.
+
 * 0.3.2
   * Added extension methods for `RibbonViewModel.WithFirstTabSelected` and `RibbonViewModel.WithLastTabSelected`.
 
