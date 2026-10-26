@@ -1,4 +1,3 @@
-using Bars.Mvvm.FluentApi.Generator.Extensions;
 using Bars.Mvvm.FluentApi.Generator.Extensions.Models;
 using Scriban;
 using System;

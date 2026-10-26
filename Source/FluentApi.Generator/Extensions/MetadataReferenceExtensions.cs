@@ -1,4 +1,3 @@
-using Bars.Mvvm.FluentApi.Generator.Extensions;
 using System.Collections.Generic;
 using System.Collections.Immutable;
 using System.Linq;

@@ -1,13 +1,9 @@
-﻿using Bars.Mvvm.FluentApi.Generator.Extensions;
-using Bars.Mvvm.FluentApi.Generator.Extensions.Models;
-using System;
+﻿using Bars.Mvvm.FluentApi.Generator.Extensions.Models;
 using System.Collections.Generic;
-using System.Linq;
 using System.Reflection;
 using System.Text;
 using System.Threading;
 using Microsoft.CodeAnalysis;
-using Scriban;
 
 namespace Bars.Mvvm.FluentApi.Generator.Extensions;
 
